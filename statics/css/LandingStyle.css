@@ -1,0 +1,78 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+}
+.container{
+background-color:#FFF0F5;
+}
+.nav ul{
+display: inline-flex;
+margin: 30px;
+height: 30px;
+}
+.nav ul li{
+list-style: none;
+margin: 0 10px; 
+cursor: pointer;
+}
+.logo img{ 
+   width: 70px;
+   height: 70px;   
+margin-top: -18px;
+   margin-right: 50px;
+ 
+}
+
+.home {
+color: #F08080;
+}
+.partners {
+color: #F08080;
+}
+.contact {
+color: #F08080;
+}
+.join {
+color: #F08080;
+    text-decoration: none;
+}
+.signinbtn{
+top: 70px;
+right: 80px; 
+position:absolute;
+text-decoration: none;
+color: #F08080;
+border: 2px solid;
+border-radius: 20px;
+background-origin: border-box;
+background-clip: content-box;
+}
+
+.signinbtn span{
+  display: block;
+  padding: 8px 20px;
+}
+.Hi{
+background-color: #000000;
+}
+.Hi h1{
+text-indent: 70px;
+color:#F08080;
+font-family: Brush Script MT;
+text-align: center;
+font-size: 50px;
+}
+
+.about h2{
+color:#F08080;
+
+text-indent: 30px;
+}
+.about p{
+text-indent: 30px;
+}
+.about img{
+position: relative; 
+left: 30px;
+}
